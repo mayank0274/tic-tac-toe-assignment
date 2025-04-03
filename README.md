@@ -4,7 +4,7 @@ Assignment solution for Tic Tac Toe
 
 ### Live Link
 
-https://assignment-tictactoe.netlify.app/
+https://tic-tac-toe-assignment-wheat.vercel.app
 
 ### Run locally
 
